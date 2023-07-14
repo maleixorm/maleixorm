@@ -7,4 +7,6 @@
 ![Marcos Status](https://github-readme-stats.vercel.app/api?username=maleixorm&show_icons=true&theme=dracula)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maleixorm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
+![HTML5](html5.png)
+---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maleixorm&repo=PHP)](https://github.com/maleixorm/PHP)
