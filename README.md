@@ -1,3 +1,3 @@
 # Olá, seja bem-vindo ao meu repositório! :vulcan_salute:
 
-[![Marcos Aleixo GitHub stats](https://github.com/maleixomr/github-readme-stats)]
+![Marcos Status](https://github-readme-stats.vercel.app/api?username=maleixorm&show_icons=true)
