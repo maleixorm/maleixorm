@@ -14,3 +14,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maleixorm&repo=Finans)](https://github.com/maleixorm/Finans)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maleixorm&repo=PHP)](https://github.com/maleixorm/PHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maleixorm&repo=acessibilidade-web-front-end)](https://github.com/maleixorm/acessibilidade-web-front-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maleixorm&repo=CSharp)](https://github.com/maleixorm/CSharp)
