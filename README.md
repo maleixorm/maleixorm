@@ -4,8 +4,7 @@
 - Especialista em Análise de Dados
 - Desenvolvimento Web Full-Stack
 ---
-![Marcos Status](https://github-readme-stats.vercel.app/api?username=maleixorm&show_icons=true&theme=dracula)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maleixorm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![maleixorm's Stats](https://github-readme-stats.vercel.app/api?username=maleixorm&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ---
 # Linguagens de Programação e Frameworks
 ---
