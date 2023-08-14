@@ -1,8 +1,9 @@
 # Olá! Sou o Marcos Aleixo e seja bem-vindo ao meu repositório! :vulcan_salute:
 ---
+- Bacharel em Educação Física
 - Tecnólogo em Análise e Desenvovimento de Sistemas
-- Especialista em Análise de Dados
-- Desenvolvimento Web Full-Stack
+- Pós Graduado em Análise de Dados
+- Pós Graduando em Desenvolvimento Web Full-Stack
 ---
 ![maleixorm's Stats](https://github-readme-stats.vercel.app/api?username=maleixorm&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![maleixorm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maleixorm&theme=dracula&hide_border=true)
