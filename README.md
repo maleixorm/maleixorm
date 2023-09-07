@@ -3,7 +3,7 @@
 - Bacharel em Educação Física
 - Tecnólogo em Análise e Desenvovimento de Sistemas
 - Pós Graduado em Análise de Dados
-- Pós Graduando em Desenvolvimento Web Full-Stack
+- Pós Graduado em Desenvolvimento Web Full-Stack
 ---
 ![maleixorm's Stats](https://github-readme-stats.vercel.app/api?username=maleixorm&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![maleixorm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maleixorm&theme=default&hide_border=true)
