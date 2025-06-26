@@ -11,5 +11,5 @@
 ---
 # Linguagens de Programação e Frameworks
 ---
-![HTML5](html5.png) ![CSS3](css3.png) ![JavaScript](js.png) ![SASS](sass.png) ![Bootstrap](bs.png) ![Tailwind](tw.png) ![Node JS](nodejs.png) ![Java](java.png) ![PHP](php.png) ![ShellScript](ssh.png) ![MySQL](mysql.png)
+![HTML5](html5.png) ![CSS3](css3.png) ![JavaScript](js.png) ![SASS](sass.png) ![Bootstrap](bs.png) ![Tailwind](tw.png) ![React](react.png) ![Node JS](nodejs.png) ![Java](java.png) ![PHP](php.png) ![ShellScript](ssh.png) ![MySQL](mysql.png)
 ---
