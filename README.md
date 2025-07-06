@@ -1,4 +1,4 @@
-# Olá! Sou o Marcos Aleixo e seja bem-vindo ao meu repositório! :vulcan_salute:
+# Olá! Seja bem-vindo ao meu repositório! :vulcan_salute:
 
 Sou desenvolvedor web com foco em criação de sites profissionais, rápidos e responsivos para empresas, autônomos e negócios locais.
 
@@ -21,4 +21,4 @@ Posso atuar como freelancer ou colaborador remoto, em projetos pontuais ou cont�
 
 # Linguagens de Programação e Frameworks
 
-![HTML5](html5.png) ![CSS3](css3.png) ![JavaScript](js.png) ![SASS](sass.png) ![Bootstrap](bs.png) ![Tailwind](tw.png) ![React](react.png) ![Node JS](nodejs.png) ![Java](java.png) ![PHP](php.png) ![ShellScript](ssh.png) ![MySQL](mysql.png)
+![HTML5](html5.png) ![CSS3](css3.png) ![JavaScript](js.png) ![SASS](sass.png) ![Bootstrap](bs.png) ![Tailwind](tw.png) ![React](react.png) ![NextJS](next.png) ![Node JS](nodejs.png) ![Java](java.png) ![PHP](php.png) ![Laravel](laravel.png) ![ShellScript](ssh.png) ![MySQL](mysql.png)
