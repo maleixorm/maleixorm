@@ -2,7 +2,7 @@
 
 Sou desenvolvedor web com foco em criação de sites profissionais, rápidos e responsivos para empresas, autônomos e negócios locais.
 
-Trabalho com HTML, CSS, JavaScript, PHP e MySQL, desenvolvendo sites personalizados com ou sem CMS. Também utilizo frameworks como Bootstrap e Tailwind para acelerar o desenvolvimento com qualidade visual. Tenho domínio de WordPress, incluindo configurações de lojas virtuais com WooCommerce.
+Trabalho com HTML, CSS, JavaScript, PHP e MySQL, desenvolvendo sistemas personalizados com ou sem CMS. Também utilizo frameworks como Bootstrap, Tailwind, jQuery, React.js, Next.js e Laravel para acelerar o desenvolvimento com qualidade visual. Tenho domínio de WordPress, incluindo configurações de lojas virtuais com WooCommerce.
 
 Meu objetivo é entregar soluções que funcionem de verdade: sites bem estruturados, fáceis de navegar e adaptados para qualquer dispositivo.
 
