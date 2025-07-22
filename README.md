@@ -1,19 +1,18 @@
 # Olá! Seja bem-vindo ao meu repositório! :vulcan_salute:
 
-Sou desenvolvedor web com foco em criação de sites profissionais, rápidos e responsivos para empresas, autônomos e negócios locais.
+Profissional multidisciplinar com experiência nas áreas de desenvolvimento web, design gráfico e análise de dados. Possui perfil autodidata, analítico e voltado para resultados, com forte capacidade de resolver problemas técnicos de forma eficiente. Tem experiência tanto em projetos próprios quanto em ambientes corporativos, oferecendo soluções sob medida para clientes e empresas.
 
-Trabalho com HTML, CSS, JavaScript, PHP e MySQL, desenvolvendo sistemas personalizados com ou sem CMS. Também utilizo frameworks como Bootstrap, Tailwind, jQuery, React.js, Next.js e Laravel para acelerar o desenvolvimento com qualidade visual. Tenho domínio de WordPress, incluindo configurações de lojas virtuais com WooCommerce.
-
-Meu objetivo é entregar soluções que funcionem de verdade: sites bem estruturados, fáceis de navegar e adaptados para qualquer dispositivo.
-
-Posso atuar como freelancer ou colaborador remoto, em projetos pontuais ou contínuos.
-
-🛠️ Principais habilidades:
-- Desenvolvimento de sites institucionais
-- WordPress e WooCommerce (loja virtual)
-- Integração com WhatsApp, redes sociais e formulários
-- Sites otimizados para celular e SEO básico
-- Comunicação clara e foco em resultado
+- Linguagens: HTML, CSS, JavaScript, PHP, Python, Java, Shellscript
+- Frameworks Backend: Laravel, WordPress
+- Frameworks Frontend: React, NextJS
+- Banco de dados: SQL Server, Oracle SQL, MySQL, MongoDB
+- Libs: Bootstrap, Tailwind, jQuery, Ajax
+- Controle de Versão: Git, GitHub
+- Design Gráfico: Adobe Photoshop, Illustrator, InDesign, Canva
+- Análise de Dados: Excel, Power BI, Tableau
+- Edição de Vídeo: Adobe Premiere, Capcut
+- OS: Windows e Linux
+- Soft Skills: Comunicação clara, foco em soluções, autonomia, organização
 
 ![maleixorm's Stats](https://github-readme-stats.vercel.app/api?username=maleixorm&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![maleixorm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maleixorm&theme=default&hide_border=true)
