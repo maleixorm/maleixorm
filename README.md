@@ -1,9 +1,9 @@
 # Olá! Seja bem-vindo ao meu repositório! :vulcan_salute:
 
-Profissional multidisciplinar com experiência nas áreas de desenvolvimento web, design gráfico e análise de dados. Possui perfil autodidata, analítico e voltado para resultados, com forte capacidade de resolver problemas técnicos de forma eficiente. Tem experiência tanto em projetos próprios quanto em ambientes corporativos, oferecendo soluções sob medida para clientes e empresas.
+Profissional multidisciplinar com experiência nas áreas de desenvolvimento web e design gráfico. Possui perfil autodidata, analítico e voltado para resultados, com forte capacidade de resolver problemas técnicos de forma eficiente. Tem experiência tanto em projetos próprios quanto em ambientes corporativos, oferecendo soluções sob medida para clientes e empresas.
 
-- Linguagens: HTML, CSS, JavaScript, PHP, Python, Java, Shellscript
-- Frameworks Backend: Laravel, WordPress
+- Linguagens: HTML, CSS, JavaScript, PHP, .NET C#, Python, Java, Shellscript
+- Frameworks Backend: Laravel, Express, Entity, NodeJS, WordPress
 - Frameworks Frontend: React, NextJS
 - Banco de dados: SQL Server, Oracle SQL, MySQL, MongoDB
 - Libs: Bootstrap, Tailwind, jQuery, Ajax
