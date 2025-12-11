@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marcos Aleixo! Seja bem-vindo ao meu repositório!
+# Olá! Eu sou o Marcos Aleixo! Seja bem-vindo ao meu repositório!
 
 <div>
   <a href="https://github.com/maleixorm">
@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleixorm&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-# Skills
+## Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
